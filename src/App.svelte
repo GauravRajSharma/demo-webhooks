@@ -7,4 +7,5 @@
   <span>Understanding webhooks</span>
   <span>Webhooks let's you do cool things</span>
   Another commit
+  Release mode ON!
 </div>
