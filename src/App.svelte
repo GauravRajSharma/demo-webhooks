@@ -5,4 +5,5 @@
 <div class="container p-3">
   <span class="text-indigo-800 font-bold text-4xl shadow p-4">{heading}</span>
   <span>Releasing the version</span>
+  <span>Version 1 Yayyy!!</span>
 </div>
